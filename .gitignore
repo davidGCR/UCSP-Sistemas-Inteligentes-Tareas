@@ -1,0 +1,6 @@
+*.zip
+*.pdf
+*.py
+*.csv
+*./semana2
+* /.ipynb_checkpoints
