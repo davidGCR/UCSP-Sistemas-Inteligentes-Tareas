@@ -4,3 +4,4 @@
 *.csv
 *./semana2
 * /.ipynb_checkpoints
+*.pkl
